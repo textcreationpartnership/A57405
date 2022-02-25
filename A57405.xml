@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the risen seed, a salutation ; and, To the breathing babe of eternal birth as also, To Brittains Bereans, the noble islanders, who have waited for His law, (called Quakers) in England : together with A moving in the spirit for the seed to feel / by A. Robeson.</title>
+            <author>Robeson, A. (Andrew)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57405</idno>
+            <idno type="STC">Wing R1622</idno>
+            <idno type="STC">ESTC R1474</idno>
+            <idno type="EEBO-CITATION">13172591</idno>
+            <idno type="OCLC">ocm 13172591</idno>
+            <idno type="VID">98309</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57405)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98309)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 777:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the risen seed, a salutation ; and, To the breathing babe of eternal birth as also, To Brittains Bereans, the noble islanders, who have waited for His law, (called Quakers) in England : together with A moving in the spirit for the seed to feel / by A. Robeson.</title>
+                  <author>Robeson, A. (Andrew)</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98309:1"/>
+            <!-- PDF PAGE 22 -->
+            <pb facs="tcp:98309:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <p>TO THE RISEN SEED, A SALUTATION, AND To the BREATHING BABE Of ETERNAL BIRTH: AS ALSO, TO Brittains Bereans, The Noble Iſlanders, who have waited for His Law, (called <hi>Quakers</hi>) in <hi>ENGLAND.</hi>
+            </p>
+            <p>Together with A MOVING in the Spirit for the SEED to feel.</p>
+            <p>By <hi>A. ROBESON.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year. 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="religious_tract">
+            <pb facs="tcp:98309:2"/>
+            <!-- PDF PAGE 23 -->
+            <pb n="3" facs="tcp:98309:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 23 -->
+            <opener>To the Riſen SEED, a Salutation.</opener>
+            <p>O Seed of the Covenant, thy Glory hath ſurrounded me, and as paſſing in the vein of thy Manſions, my Soul is raviſhed, Oh my Soul is raviſhed! and with the Glory of thy Tabernacle I am overwhel<g ref="char:EOLhyphen"/>med: To the Beauty of thy dwelling Place there is no com<g ref="char:EOLhyphen"/>pariſon.</p>
+            <p>O ye Veſſels of the Lord, Purity retain, for Holineſs be<g ref="char:EOLhyphen"/>comes his Houſe for ever; You, you Seed of <hi>Jacob</hi> hath he called, and known above all the Families of the Earth, to place his Name in you, and ſet you as a Garden in a pleaſant Soile; he eats of your Fruit, and delights in what ye bring forth; O Anſwer, Anſwer his Goodneſs for ever; He hath ſetled your Shakings, and ſet you on a Rock; He hath ended your Wandrings, and given you Dwellings at Home; when there was none to pity, he gathered you up; He ſaved you in Trou<g ref="char:EOLhyphen"/>ble, when vain was the help of Man: <hi>Out of Egypt hath he called his Son:</hi> He is dividing the Waves, and the Seed's paſ<g ref="char:EOLhyphen"/>ſing thorow, when Darkneſs is covering the Earth, and groſs darkneſs the People; behold it's clear about you, and your Light in your Lanthorn doth ſhine: His Thunder-claps is amazing the Earth, yea, Terrour and Madneſs is making men reel; The Cups of pure Wrath is the Wicked ſwallowing up, while great is your Peace, dear Children.</p>
+            <p>O Babes, your Union, your Order, your Peace and Joy, ſhewes ye are all taught of the Lord; And lo, He is come as from a far Country, travelling in his great Strength, thorow a long and ſable black Night of Apoſtacy, with the Day<g ref="char:EOLhyphen"/>ſpring from on high to viſite you; And have you not felt Him ariſe with healing under his Wings? Speak, Speak to his Glo<g ref="char:EOLhyphen"/>ry, and let the <hi>Heathen</hi> hear of his Fame, you bleſſed Mini<g ref="char:EOLhyphen"/>ſters of Truth, to whom the utterance is given; Sound, Sound gloriouſly, that the dead may ariſe to Judgement; Let the
+<pb n="4" facs="tcp:98309:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 24 -->Wicked hear of his Dread, and his Love that hath cut down many, when he aroſe his Seed to redeem, and to bring back <hi>Zion</hi> with Judgement out of Shadows, you to lead forth into the Living Subſtance, making you loath the Pots in <hi>Fgypt,</hi> and love the new Wine in the Kingdom: What ye have heard, declare; What ye have ſeen, utter, and hide not your bleſſed Talent, that Dread may beſet the Nations, and Fear the Ene<g ref="char:EOLhyphen"/>mies of his People; let your Flouriſhing lives declare that your Spring is from a Fountain, that the parched Land may gape, and the Thirſty may yearn for Water; that the Coy may be wooed to Love, being jealous to ſee your Beauty, and the Peace through War, that ye injoy, O <hi>Zions</hi> Camp in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>A Work ye are raiſed up to do, mine eye ſees it; the Seed of Faith alone can perceive it; With joy the Firſt-born is come into the World, ye are all Witneſſes: And ſhall He not ſtand the laſt upon the Earth? the Day of the Reſtitution of all things ſhall prove it: Feel me here, the Babe can imbrace me, the Wiſe and Prudent is ſhut out. Many hath had a Day, but one ſhall have the laſt: The <hi>Dragon,</hi> the <hi>Beaſt,</hi> the <hi>falſe Prophet, Antichriſt,</hi> that denies Him to be come in the Fleſh, hath all had a Day, the ſuffering Witneſs hath felt it; And ſhall not the Prince of the Kings of the Earth have his Day alſo? yea, he ſhall have the laſt, even the Day of Judgment on all Fleſh, on all that hath gone before him, the Theeves and Robbers; that ſhall be his Day, the Joy of the Upright ſhall ariſe in it; and that that Day is already ſprung, you inlight<g ref="char:EOLhyphen"/>ned Ones are Witneſſes; and that it ſhall come to a noon-tyde, and never decline again, many ſhall be Witneſſes, yea, a numberleſs Number ſhall ſee it, and all counterfeit Lights, and falſe Fiers ſhall vaniſh in it.</p>
+            <p>Be joyful in Glory, and rejoyce in Hope, all you that wait for the Appearance of <hi>Zions King,</hi> for his Riſing ſhall be re<g ref="char:EOLhyphen"/>freſhful as the Springs of the Morning; the earneſt Expecta<g ref="char:EOLhyphen"/>tion of the Creature hath waited for his Day, wherein ſhall ſhine forth the Manifeſtation of you, the Sons of God; then ſhall the groaning Creation be let into the Liberty, for the
+<pb n="5" facs="tcp:98309:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 24 -->Son ſhall make it free, (and you know, <hi>that's free indeed</hi>) the Son who fulfils the Fathers Will, which was, and is, that of all that the Father hath given him, He ſhould loſe nothing, but ſhould raiſe it up again at the laſt Day: And hath he not gi<g ref="char:EOLhyphen"/>ven Him the <hi>Heathen</hi> for his Inheritance, and the utmoſt ends of the Earth for his Poſſeſſion? you, who have ſeen and felt Him a Light unto the <hi>Gentiles,</hi> can witneſs it: And al<g ref="char:EOLhyphen"/>though there hath come before him Theeves and Robbers, who have thronged into the high Places of the Earth (yea into the holy Place where they ought not) for a ſeaſon, yet his Day of Judgement ſhall be upon them, and they ſhall be caſt out; Behold his day is come, and the Recovery is ariſing.</p>
+            <p>All dear Friends, keep your eye to the Cloud by day, and to the Pillar of Fire by night, and in the Patience abide for the time of glorious Wonders; eye Him, eye Him, who rules the raging of the Sea, when the Waves thereof ariſe, he ſtills them; verily the Day approacheth, wherein the things that are ſhall paſs away, and that ſhall ariſe, that will refreſh the Earth; for Peace ſhall be ſown to the Righteous, and Joy to the up<g ref="char:EOLhyphen"/>right in Heart.</p>
+            <p>Theſe things I teſtifie in the Openings of the Spirit of Light, who am your dear Friend and Brother in the Patience and Tribulation of Jeſus; with you is my Name new, and to the World known by,</p>
+            <closer>
+               <signed>A. Robeſon.</signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <p>There is none like unto the God of <hi>Jeſurun,</hi> who rideth upon the Heaven in thy help, and in his Excellency, on the Skie.</p>
+                  <p>The Eternal God is thy refuge, and underneath thee are his Ever<g ref="char:EOLhyphen"/>laſting Armes; and He ſhall thruſt out the Enemy from before thee, and ſhall ſay, Deſtroy them.</p>
+                  <p>
+                     <hi>Iſrael</hi> then ſhall dwell in ſafety alone; The Fountain of <hi>Jacob</hi> ſhall be upon a Land of Corn and Wine; alſo, His Heavens ſhall drop down Dew.</p>
+                  <p>Happy art thou <hi>O Iſrael,</hi> who is like unto thee O People, ſaved by the Lord, the Shield of thy Help? and who is the Sword of thy
+<pb n="6" facs="tcp:98309:4" rendition="simple:additions"/>
+                     <!-- PDF PAGE 25 -->Excellency? and thine Enemies ſhall be found Lyars before thee, and thou ſhalt tread down their High Places.</p>
+               </q>
+            </epigraph>
+         </div>
+         <div type="religious_tract">
+            <opener>
+               <salute>To the Breathing Babe of Eternal Birth, Saith my Life in the Love of God.<lb/>
+DEAR HEART,</salute>
+            </opener>
+            <p>AS thou falleſt into the boſom of thy Father, thou wilt feel thy Reſt, the Spring and Fountain of Life which a<g ref="char:EOLhyphen"/>riſeth not in that part within thee, is according to this world: But O, how it flowes from above, from the Father of Light, unto that which is born anew, and prepared for the Kingdom; Oh the Kingdom that is to come! The Lord God of my mer<g ref="char:EOLhyphen"/>cy and life preſerve thee from every evil Word and Work, and fit thee yet more for that Heavenly Kingdom, for it cometh; for it cometh in ten thouſand of his Saints. O my Lamb, feel more and more, the Innocence overſhadow thee, and the Veſture that is beautiful, and the Armour of Light: O, the Day is come, walk while thou haſt the Day, for, <hi>The night cometh wherein no man can work:</hi> The Springs of the morning hath been thy Viſitation; yea, the day Spring from on high hath viſited thee; and the righteous Son with the healing wing hath fluttered over thee, as a Hen for the Bird. Be gathered, O, be gathered in this Day of great Mercy, leſt the Day of Lamentation come, and it thus be taken up, <hi>How oft would I have gathered thee?</hi> &amp;c. Fulfil my joy in thy joyning to the Lord, and hear thou the Angel of the Covenant (who is come to gather) crying to the Seed, Ariſe and ſhine, for thy Light is come, and the Glory of the Lord is ariſen upon thee, even upon the Seed through whom the Nations are, and are to be bleſt: O, the beautiful deſpiſed Seed, let this out-caſt dwell with thee, and thou ſhalt entertain an Angel: O my Breathings for that Babe in thy Boſom, I know him to be of a noble deſcent, begotten of the Father, full of Grace and Truth; he leads in the hidden way of Peace from the World,
+<pb n="7" facs="tcp:98309:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 25 -->yea, the wayfaring-man that follows him (though a Fool) he ſhall not err; His is the Voice of the Turtle, and Oh! it is heard in thy Land: Then rejoyce ſince the time of the Sing<g ref="char:EOLhyphen"/>ing of Birds is come; and into the now recovered Eternal Paradiſe enter thou again, taking a ſeat among the Branches, to chaunt among the Birds on the pleaſant <hi>Mirtle Trees;</hi> for ſo, to many the Winter is over and gone, and the Flowers of the Eternal Spring appears. O, the Songs of <hi>Zion</hi> are full of Harmony, in whoſe Remembrance my Life is as the Fume of burning Incenſe, aſcending from the Altar of Holineſs to God, and to the Lamb for ever: O, come to feel the Song from the Fountain of Joy, of Life, Light and Love, for ever<g ref="char:EOLhyphen"/>more, Amen.</p>
+            <p>Nor can I hear hold, God's Love overflowing my Life, as a River ſwells over her Banks, whereby the pure Streams of Everlaſting Love runs thorow me, towards the riſing Seed of Immortal Life, in thy long oppreſſed, darkned, travelling Soul; Cheriſh it, Cheriſh it, O my lovely Babe, that in thee it may grow to the Everlaſting Joy and Peace of thy Soul, and ſafety of thy Immortal Part for ever; This is a matter of weight, enter into the Feeling of it. O, that I may ſee the Day wherein the glorious Power of the Living God may come up, and be over and a-top of all the Powers of Darkneſs in thee; that would be the Day of the Anſwer of the Deſires of my Life, and the Petitions of my pureſt Breath, which hath aſcended from me even of old, in the Dayes of my great Darkneſs, when I had no witneſs of the withdrawing of vaile, nor entrance into the holy Place, but as one having been far off, and brought nearer by the Blood of Jeſus; I feel the Iſſues of Life begetting in me the Sounding of Bowels to the breathing Seed, that into the Unity it may come into the Fold to Feed, where the Flock reſts at noon, and hath a Shadow from the heat.</p>
+            <p>And this is the Meſſage of my Life in the Love and Power of God unto thee, O Traveller toward <hi>Zion,</hi> if thy Face be thitherwards, and that be raiſed in thee, which can<g ref="char:EOLhyphen"/>not
+<pb n="8" facs="tcp:98309:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 26 -->live but in God's Life, nor cannot rejoyce, but in the Light of his Countenance, nor feed, but on the Bread from Heaven; I ſay, from Him who lives for ever, Holy, Faithful and True, the dayes of thy Refre<g ref="char:EOLhyphen"/>ſhing ſhall come, for I feel the Yearning of his Bow<g ref="char:EOLhyphen"/>els, to enter into an Everlaſting Covenant with thee, that ſhall never be forgotten: Wherefore let the Faint grow Strong, and the Weary walk Uprightly, for a time ſhall come that Tears ſhall be wiped from their Eyes.</p>
+            <closer>
+               <signed>A. R.</signed>
+            </closer>
+         </div>
+         <div type="religious_tract">
+            <head>To Brittains Bereans, the noble Iſlanders, who have waited for His Law, (called <hi>Quakers</hi>) in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </head>
+            <p>SOns of Righteouſneſs, you ariſe ſo oft before me, that my pure Remembrance doth continually ſtir: Whereto ſhall I compare you? Or by what ſimilitude can I deſine your Beauty? How ſhort's the Earthly to find you out, ſince in the Heavenly was your Plantation? and in, and from the Holy Land of Light and Life, I ſend you forth a moſt endeared Sa<g ref="char:EOLhyphen"/>lutation; It's alone your Innocence that gives you Splendor, and your unſpotted Life that makes you ſhine; The pure Law of Righteouſneſs you have received, elſe your Stedfaſtneſs had been in vain. To what you have been faithful, is from the Lord, elſe your Faith had never been accounted; for if not for the ſingle Truth, for what ſhould ſerve your loſs of All? And when to you the Teſtimony rifes clear in the Lord, give freely up, and your Reward ſhall be Abundance.</p>
+            <p>Dear Lambs, our God great and terrible, the Intents of his Heart, is bringing to paſs, to eſtabliſh his mighty Work of Wonders; he is ſwift in his Goings, his Arm is ſtretched out, Scattering that which is to be Scattered, and gathering the Remnant of his Seed from the winds of the Earth.</p>
+            <p>
+               <pb n="9" facs="tcp:98309:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 26 -->
+You know that of all Trees in the world, he hath choſen one only Vine; of all Flowers one Lilly; above all Fowls hath he loved one Dove; amongſt all Cattle, choſen one Sheep; above all builded Cities, hath he hallowed <hi>Zion</hi> for himſelf; amongſt all the Multitudes of People, hath he got<g ref="char:EOLhyphen"/>ten One; unto this People whom he loves, hath he given a Law, approved in them, whereby a way of returning to that, which was erred from in the wandering Minds of fallen Man<g ref="char:EOLhyphen"/>kind, is opened up; and this Law muſt be publiſhed to the ends of the Earth, for a tye to bridle the Nations.</p>
+            <p>Wherefore O Friends, a weight lyes upon you, you are the Objects of the eyes of many; yea, a jealouſie concerning you, is ſpreading over the Earth, and ſecret queſtions ariſing in the hearts of many, ſaying, VVhat doth this Appearance mean? Friends, you know, it is the earneſt of good things to come; and I'l tell you in that which cannot fail, the Ge<g ref="char:EOLhyphen"/>nerations to come ſhall bleſs the day and ſpring, in, and by which you have been, and are viſited.</p>
+            <p>Therefore ſtaidneſs, ſtaidneſs O Flock of <hi>Iſrael,</hi> in the pure Opening meaſure of Life, in your holy cleanſed Veſſels, is that which ſhall cloath you with Authority, and give you do<g ref="char:EOLhyphen"/>minion, and make you to feel, and ſupport you under the weight of the work ye are called unto.</p>
+            <p>O holy Children, in the pure Silence, in the weighty VViſ<g ref="char:EOLhyphen"/>dom, in the bleſſed Openings of the unchangeable Light, and endleſs Life, ſtay your Minds; keep, keep under that, that you may be a weighty People in the approaching Day, where<g ref="char:EOLhyphen"/>in your Enemies will ſeek to raze, your Foundation.</p>
+            <p>VVhich (O Babes of bleſſing) I feel to be the Rock of Ages, and the Foundation of many Generations, who on it ſtood firm, againſt all the thundering decrees for <hi>Iſraels</hi> utter Deſtruction of <hi>Haman, Ahaſuerus, Nebuchadnezzar, Darius,</hi> and all other combined Kings againſt the Lord, and his A<g ref="char:EOLhyphen"/>nointed, in the dayes of old.</p>
+            <p>This your munition of Rocks (O Doves in the Cleft) ſhewes before your Enemies, but as a little Stone to be tum<g ref="char:EOLhyphen"/>bled at their pleaſure, by their Ingines and Machinations of darkneſs.</p>
+            <p>
+               <pb n="10" facs="tcp:98309:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 27 -->
+But (O ye Inhabitants in the Mount on the top of all) you know it came out of the Mountain without hands, and curſed are all they who lift up a Tool upon it, for no Weapon formed againſt it ſhall proſper; yea, this is the Altar built without a Tool, which no man can deface, and whereof no man muſt have the Glory.</p>
+            <p>So my Friends fear not, though the <hi>Heathen</hi> cry <hi>Aha,</hi> as though there were no God; and though the Proud, and they that are at eaſe, cry lo, although he truſted in God, yet is he fallen: For the Lord God of Hoſts will thunder down amongſt them, that he may redeem <hi>Jacob</hi> his beloved, and <hi>Iſrael</hi> his choſen; It goes on, the day draws near, even of Multitudes, Multitudes for the Valley of Deciſion; Let nothing (not a hurtful thought) enter, think not time long, in God ſtand ſtill; keep your Minds out of all things in the Light of the Lord, wherewith you are viſited; Woe will be your Portions if ye depart from it: and in this day nothing will be able to keep you to it, but the Power of it ſelf; Therefore watch to feel it, that you may ſtand, that the Glory of the preſent, and approaching Day of God, you may be made Partakers of; for the Light that is ſprung up, by the Power whereof you are raiſed to bear Teſtimony to it ſelf, is the Law that ſhall bind all Nations, and plant them in their longed-for Reſt.</p>
+            <closer>
+               <signed>A. R.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>A Moving in the Spirit, for the Seed to Feel.</head>
+            <lg>
+               <l>
+                  <hi>O Zion</hi> weeps, our Mother dear,</l>
+               <l>
+                  <hi>Jeruſalem</hi> doth cry,</l>
+               <l>For Babes brought up to Marriage-bed,</l>
+               <l>who then fall down and die.</l>
+            </lg>
+            <lg>
+               <l>And for the Beauty of her Babes,</l>
+               <l>which ſhin'd in <g ref="char:V">Ʋ</g>nity,</l>
+               <l>
+                  <pb n="11" facs="tcp:98309:6" rendition="simple:additions"/>
+                  <!-- PDF PAGE 27 -->
+Her ſmitten Life doth pant and groan</l>
+               <l>becauſe of ſome decay.</l>
+            </lg>
+            <lg>
+               <l>Yet her Redeemer ſounds aloud,</l>
+               <l>and ſayes his Name he'l raiſe,</l>
+               <l>And make the Beauty of her Babes,</l>
+               <l>of all the Earth, the Praiſe.</l>
+            </lg>
+            <lg>
+               <l>I've heard his Voice which rends the Clouds;</l>
+               <l>he ſaid, I'le riſe in Zeal,</l>
+               <l>And I'le break thorow the dark ſhrouds,</l>
+               <l>which doth Our Glory vaile.</l>
+            </lg>
+            <lg>
+               <l>O <hi>Zion</hi> my redeemed Land,</l>
+               <l>I've bought thee with my Blood:</l>
+               <l>
+                  <hi>Jeruſalem</hi> my choſen Spouſe,</l>
+               <l>my Life doth ſeek thy Good.</l>
+            </lg>
+            <lg>
+               <l>And tho thy Enemy doth rage,</l>
+               <l>and ſeek thee to devour;</l>
+               <l>Yet I will ſtop his crafty Courſe,</l>
+               <l>and ſmite Him with my Power.</l>
+            </lg>
+            <lg>
+               <l>And thou ſhalt be redeem'd from Grief,</l>
+               <l>and that which did divide,</l>
+               <l>Shall come alſ' ſhort in Policy,</l>
+               <l>As't hath in Power and Pride.</l>
+            </lg>
+            <lg>
+               <l>All Violence and deep deceit,</l>
+               <l>for ever from thy Land</l>
+               <l>I'le Baniſh quite; In my pure Power</l>
+               <l>and Wiſdom thou ſhalt ſtand:</l>
+            </lg>
+            <lg>
+               <l>For I have Sworn, and will perform,</l>
+               <l>my Life in pledge I give,</l>
+               <l>That from all Moleſtation,</l>
+               <l>thy Life I ſhall relieve.</l>
+            </lg>
+            <lg>
+               <l>All Tears, and Sorrows, Cryes, and Paine,</l>
+               <l>ſhall paſs from thee away;</l>
+               <l>And thy pure Conſolation,</l>
+               <l>ſhall riſe like Springs of day,</l>
+            </lg>
+            <lg>
+               <pb n="12" facs="tcp:98309:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 28 -->
+               <l>All by-paſt things, wherein thou waſt</l>
+               <l>acquaint with grief and Tears,</l>
+               <l>Shall come no more into thy mind;</l>
+               <l>Love ſhall caſt out thy Fears.</l>
+            </lg>
+            <lg>
+               <l>And in that State, I will create</l>
+               <l>
+                  <hi>Jeruſalem</hi> a Joy,</l>
+               <l>And nought unclean, from hencoforth ſhall</l>
+               <l>her Bleſſedneſs annoy.</l>
+            </lg>
+            <lg>
+               <l>For I have ſeal'd a bleſt Decree,</l>
+               <l>for her eternal Good;</l>
+               <l>And my pure living Bread ſhall be</l>
+               <l>her everlaſting Food.</l>
+            </lg>
+            <closer>
+               <signed>A. Robeſon.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
